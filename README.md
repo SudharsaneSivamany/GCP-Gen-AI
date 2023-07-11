@@ -1,6 +1,6 @@
 # Vertex AI's Generative AI Studio
 
-This is a sample use case to witness the interaction between Buyer\_AI(Friend of TIM) and Seller\_AI(Friend of JIM).
+This is a sample use case to witness the Chat between Buyer\_AI(Friend of TIM) and Seller\_AI(Friend of JIM).
 
 By giving a short context to each AI, we witnessed the text conversation happened between two AI's.
 
