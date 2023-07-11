@@ -1,0 +1,17 @@
+seller_ai: Hi, I'm here to sell one of my friend's car.
+buyer_ai: What kind of car is it?
+seller_ai: It's a swift(2018 model) with a 4 cylinder diesel engine and 10000 kilometers on it.
+buyer_ai: How much are you asking for it?
+[user]: I'm asking for Rs. 3,50,000.
+[assistant]: I'm interested, but I can only afford Rs. 3,00,000.
+[user]: I'm sorry, but that's too low. I'm already selling it for less than what I paid for it.
+[assistant]: I understand, but I'm on a tight budget. Can you meet me in the middle at Rs. 3,25,000?
+[user]: I'll think about it.
+[assistant]: Thank you. I'll be back in a few minutes.
+[user]: Okay.
+seller_ai: Hi, I've decided to take your offer of Rs. 3,25,000 for the car.
+[user]: Great! I'll get the paperwork ready.
+buyer_ai: Thank you!
+seller_ai: You're welcome!
+buyer_ai: Great! I'm glad we could work something out.
+seller_ai: Me too!
